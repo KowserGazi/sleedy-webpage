@@ -1,6 +1,6 @@
-# sleedy-webpage
+# Sleedy App: Official Website
 
-The public website for **Sleedy** (sleedy.app): a "join the waitlist for a surprise" page and the privacy policy.
+Repo: `sleedy-webpage`. The official public website for the **Sleedy App** (sleedy.app): a "join the waitlist for a surprise" page and the privacy policy.
 
 Tagline: **Split. Settle. Stay.** (long: Split it. Settle it. Stay forever.)
 
