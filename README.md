@@ -19,7 +19,7 @@ The page design comes from the Sleedy design file (page `sleedy_website`). It ne
 
 ## Before going live
 
-1. **Waitlist storage:** set `window.SLEEDY_WAITLIST_URL` in `assets/config.js` to the Google Apps Script web app that saves emails to a Google Sheet. Until it is set, the form tells visitors the waitlist is not open yet instead of pretending to save.
+1. **Waitlist storage:** done. `assets/config.js` points to the Apps Script web app that saves sign-ups into the "Sleedy waitlist" Google Sheet (code in `apps-script/Code.gs`).
 2. **Privacy policy:** get the quick legal review and settle the open points in `content/privacy-policy.md`.
 3. **GitHub Pages:** Settings > Pages > deploy from branch `main`, folder `/ (root)`, custom domain `sleedy.app`, then tick Enforce HTTPS once the certificate is ready.
 4. **DNS at Porkbun:** four A records and one CNAME, covered step by step in the project chat.
